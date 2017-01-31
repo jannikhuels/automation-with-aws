@@ -9,5 +9,5 @@ This tutorial will walk you through using Amazon Web Services efficiently. We bo
 People who want to improve the reliability of their IT infrastructure and the efficiency of their daily work are likely to be a good audience for this tutorial. We would like people to contribute to this Tutorial - so please do not hesitate if you have any ideas for improvements, corrections or extensions.
 
 # Labs
-* [AWS - What the heck?](/blob/master/labs/aws-intro.md)
+* [AWS - What the heck?](/labs/aws-intro.md)
 * Why the effort of automation?
